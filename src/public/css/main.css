@@ -1,0 +1,47 @@
+body {
+    color: black;
+}
+#contentWrap {
+    display: none;
+}
+.two{
+    display: inline-grid;
+    background: #F3F4F8;
+    height: 650px;
+}
+.one{
+    width: 454px;
+    height: 489.31px;
+    left: 51px;
+    top: 295px;
+}
+
+.chat-user{
+    background: #00CD7E;
+    box-shadow: 0px 1.06px 1.06px rgba(0, 0, 0, 0.15);
+}
+.boton-inicio{
+    background: #20CC81;
+    border-radius: 25px;
+    justify-content: center;
+}
+#nickname, #pass{
+    background: #F6F8FC;
+    border-radius: 24px;
+}
+b{
+   color: #757575;
+}
+#message{
+    background: #FFFFFF;
+    border: 1.06px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border-radius: 21.2px;
+}
+.error{
+    color: red;
+}
+.whisper{
+    color: gray;
+    font-style: italic;
+}
